@@ -12,7 +12,7 @@ While waiting to cast votes, participants will be able to read about the histori
 
 With multiple machines, we could demonstrate each of these different kinds of voting, or allow more than one person to vote at a time.
 
-[Link]Garaj Lumina.md
+[Link](Garaj_Lumina.md)
 
 ## Welcome to GitHub Pages
 
